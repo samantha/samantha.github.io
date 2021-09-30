@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-05-27 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Dr. Mehrdad Aliasgari, chair of the CSULB Computer Engineering and Computer Science Department, recognizes Samantha Hangsan as the recipient of the<a href = "https://www.youtube.com/watch?v=7ScosB9FSUg"> Student Leadership and Excellence Award of the class of 2020.</a>

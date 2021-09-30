@@ -1,11 +1,14 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2019-08-30 16:11:00-0400
+inline: true
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+<a href = "https://www.csulb.edu/college-of-engineering/article/meet-the-duo-starting-coes-newest-student-club">Meet the Duo Starting College of Engineering's Newest Student Club</a>
+
+
+<!--Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ***
 
@@ -29,3 +32,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+-->

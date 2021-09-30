@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-09-04
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<a href = "https://daily49er.com/artslife/2019/09/04/women-in-computing-club-want-to-empower-women-in-the-field-of-technology/">Women in Computing Club want to empower women in the field of technology</a>
+
