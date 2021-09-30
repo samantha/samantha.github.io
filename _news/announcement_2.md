@@ -5,7 +5,7 @@ date: 2019-08-30 16:11:00-0400
 inline: true
 ---
 
-<a href = "https://www.csulb.edu/college-of-engineering/article/meet-the-duo-starting-coes-newest-student-club">Meet the Duo Starting College of Engineering's Newest Student Club</a>
+<a href = "https://www.csulb.edu/college-of-engineering/article/meet-the-duo-starting-coes-newest-student-club" target="_blank">Meet the Duo Starting College of Engineering's Newest Student Club</a>
 
 
 <!--Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
