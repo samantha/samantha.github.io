@@ -348,13 +348,17 @@ footer.sticky-bottom {
     }
   }
 
+  .card-body h2 {
+    font-weight: 200;
+  }
+
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
   }
 
   h2.category {
-    color: $grey-color-light;
+    color: var(--global-theme-color);
     border-bottom: 1px solid $grey-color-light;
     padding-top: 0.5rem;
     margin-top: 2rem;
