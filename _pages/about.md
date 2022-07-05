@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <div>Software Engineer at <a href="https://www.disneyplus.com/" target="_blank">Disney Streaming</a><p>San Francisco, CA</p></div>
+description: <div>Software Engineer at <a href="https://www.useascend.com/" target="_blank">Ascend</a><p>San Francisco, CA</p></div>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Samantha! I am a backend engineer currently in the fintech startup space modernizing insurance payments at <a href="https://www.useascend.com/" target="_blank">Ascend</a>, and I formerly worked on Search at Disney Streaming (<a href="https://www.disneyplus.com/" target="_blank">Disney+</a> and <a href="https://www.starplus.com/" target="_blank">Star+</a>).
+Hi, I'm Samantha! I am a backend engineer currently in the fintech startup space modernizing insurance payments, and I formerly worked on Search at Disney Streaming (<a href="https://www.disneyplus.com/" target="_blank">Disney+</a> and <a href="https://www.starplus.com/" target="_blank">Star+</a>).
 
 Before I became a software engineer, I received a B.S. in Engineering Geology with a minor in Environmental Engineering at UCLA and interned at <a href="https://www.shannonwilson.com" target="_blank">Shannon & Wilson</a>, a geotechnical engineering and environmental consultancy firm.
 
