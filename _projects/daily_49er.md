@@ -4,7 +4,7 @@ title: Daily 49er's 70th Anniversary
 description: newspaper anniversary timeline
 img: /assets/img/aerial_csulbcampus.jpg
 importance: 3
-category: fun
+category: school
 ---
 
 <a href="https://github.com/samantha/interactive_2019_70th-anniversary" target="_blank">GitHub repository</a>

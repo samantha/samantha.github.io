@@ -4,7 +4,7 @@ title: eventure
 description: make your event planning an eventure
 img: /assets/img/eventure.jpg
 importance: 3
-category: fun
+category: school
 ---
 
 <a href="https://github.com/samantha/Eventure" target="_blank">GitHub repository</a>

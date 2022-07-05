@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: some projects and demos I've worked on
-nav: true
-display_categories: [fun]
+nav: false
+display_categories: [school, art]
 horizontal: false
 ---
 <div class="projects">
