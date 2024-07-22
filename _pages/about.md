@@ -17,7 +17,7 @@ Hi, I'm Samantha! I am a backend engineer currently at a startup in the fintech 
 
 Before I became a software engineer, I received a B.S. in Engineering Geology with a minor in Environmental Engineering at UCLA and interned at <a href="https://www.shannonwilson.com" target="_blank">Shannon & Wilson</a>, a geotechnical engineering and environmental consultancy firm.
 
-I came to software engineering after realizing that my true passion exists in the realm of technology, receiving in B.S. in Computer Science at CSULB, where I was fortunate to be advised by <a href="https://scholar.google.ca/citations?user=l-Eo7mYAAAAJ&hl=en" target="_blank">Jelena Trajkovic</a>.
+Afterwards, I entered the realm of technology and received a B.S. in Computer Science at CSULB, where I was fortunate to be advised by <a href="https://scholar.google.ca/citations?user=l-Eo7mYAAAAJ&hl=en" target="_blank">Jelena Trajkovic</a>.
 
 
 <!--
