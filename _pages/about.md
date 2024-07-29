@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Samantha! I am a backend engineer currently at a startup in the fintech space modernizing insurance payments. I formerly worked on Search at Disney Streaming (<a href="https://www.disneyplus.com/" target="_blank">Disney+</a> and <a href="https://www.starplus.com/" target="_blank">Star+</a>).
+Hi, I'm Samantha! I am a full-stack engineer currently at a startup in the fintech space modernizing insurance payments. I formerly worked on Search at Disney Streaming (<a href="https://www.disneyplus.com/" target="_blank">Disney+</a> and <a href="https://www.starplus.com/" target="_blank">Star+</a>).
 
 Before I became a software engineer, I received a B.S. in Engineering Geology with a minor in Environmental Engineering at UCLA and interned at <a href="https://www.shannonwilson.com" target="_blank">Shannon & Wilson</a>, a geotechnical engineering and environmental consultancy firm.
 
